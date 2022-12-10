@@ -10,8 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "popper.js": "^1.14.4",
     "swiper": "^4.4.1",
     "vue": "^2.5.2",
